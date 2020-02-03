@@ -1,3 +1,3 @@
-## === FOR RESULTS ONLY ===
+## FOR RESULTS ONLY
 
 Careful
