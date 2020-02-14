@@ -1,0 +1,12 @@
+Np
+0.5
+Ra
+500000000.0
+Ta
+100000.0
+Phi
+45
+E_def
+nan
+E_F_conv
+nan
